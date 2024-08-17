@@ -1,0 +1,98 @@
+
+
+.main-bg{
+    background-color: rgb(255, 255, 255);
+}
+.back-image{
+    height: 40rem;
+    width: 45rem;
+    padding: 10rem;
+    margin: 0 15rem;
+    text-align: center;
+}
+.mobile-img{
+    background-size: cover;
+    height: 50vh;
+    width: 90vw;
+}
+.mobile-margin-top{
+    margin-top: 90px;
+}
+.mobile-align-1{
+    margin-left: 29rem;
+}
+.mobile-align-2{
+    margin-left: 25rem;
+}
+.font{
+    font-family: "Roboto";
+    font-weight: bold;
+}
+.about-bg{
+    background-color: rgb(233, 233, 233);
+    height: 100vh;
+}
+.event-img{
+    height: 60%;
+    width: 70%;
+}
+.margin{
+    margin-left: 10rem;
+}
+p{
+    font-size: 25px;
+    font-family: "roboto";
+}
+.events-img{
+    height: 40vh;
+    width: 40vw;
+}
+.border-box {
+    border: 1px solid #000; 
+    padding: 20px; 
+    box-sizing: border-box; 
+}
+.events-bg{
+    background-color: aqua;
+    height: 210vh;
+}
+.Event-color{
+    background-color: aquamarine;
+}
+
+.border-box-form{
+    border: 1px solid #000; 
+    padding: 20px; 
+    box-sizing: border-box;
+    margin: 15px; 
+    border-radius: 15px;
+    margin: auto;
+}
+
+.icon{
+    height: 50px;
+    width: 60px;
+}
+
+.contact-bg{
+    background-color: darkcyan;
+    height: 24vh;
+}
+.me{
+    margin-top: 6rem;
+    font-family: "caveat";
+    font-style: italic;
+}
+.TechEvent
+ {
+    text-align: center;
+    background-color: rgb(180, 215, 215);
+}
+
+nav {
+    color: white;
+}
+#colour{
+    color: white;
+}
+
